@@ -1,10 +1,5 @@
 ## Development
-
-
-## Main Language
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 	<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiNasangjoon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Nasangjoon/Nasangjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
