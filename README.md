@@ -20,7 +20,7 @@ Junior Back-End Developer
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaSangJoon&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NaSangJoon&show_icons=true&theme=radical)
 
 ## Baekjoon Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangjoon1002)](https://solved.ac/sangjoon1002/)
